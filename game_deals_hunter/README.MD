@@ -1,6 +1,6 @@
 # Game Deals Hunter 🎮💰
 
-Welcome to the **Game Deals Hunter** repository! This project was developed as part of my academic portfolio during the 3rd semester of Software Engineering. The goal of this software is to automate the search for game deals across various digital stores.
+Welcome to the **Game Deals Hunter** repository! This project was developed as part of my academic portfolio during the 3rd semester of Software Engineering. The goal of this software is to automate the search for game deals across steam.
 
 > **Note:** This code was created for study purposes. It likely contains functions that can be optimized, some poorly designed classes, and similar issues. I relied on forums, documentation, and a bit of my own madness to build this code. when i made this only i and god known what i did now only god knows xD Feel free to make relevant changes and improvements!
 
