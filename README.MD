@@ -50,6 +50,7 @@ Follow the steps below to run the project on your local machine:
     python main.py
     ```
 
+
 ## 📚 Learnings
 
 As a Software Engineering student, this project allowed me to practice:
