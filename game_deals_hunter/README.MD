@@ -6,7 +6,7 @@ Welcome to the **Game Deals Hunter** repository! This project was developed as p
 
 ## 📋 About the Project
 
-**Game Deals Hunter** is a tool designed to help gamers save money. It monitors game prices on popular platforms (such as Steam, Epic Games, GOG, etc.) and notifies the user when a desired game reaches a target price or goes on sale.
+**Game Deals Hunter** is a tool designed to help gamers save money. It monitors game prices on popular platforms (such as Steam, Epic Games, GOG, etc.(actualy just steam, maybe more options later) and notifies the user when a desired game reaches a target price or goes on sale.
 
 ### Key Features (Planned/Implemented)
 *   🔍 **Game Search:** Search for specific titles across steam.
