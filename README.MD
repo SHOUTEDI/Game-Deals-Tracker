@@ -1,12 +1,12 @@
 # Game Deals Hunter 🎮💰
 
-Welcome to the **Game Deals Hunter** repository! This project was developed as part of my academic portfolio during the 3rd semester of Software Engineering. The goal of this software is to automate the search for game deals across various digital stores.
+Welcome to the **Game Deals Hunter** repository! This project was developed as part of my academic portfolio during the 3rd semester of Software Engineering. The goal of this software is to automate the search for game deals across steam.
 
 > **Note:** This code was created for study purposes. It likely contains functions that can be optimized, some poorly designed classes, and similar issues. I relied on forums, documentation, and a bit of my own madness to build this code. when i made this only i and god known what i did now only god knows xD Feel free to make relevant changes and improvements!
 
 ## 📋 About the Project
 
-**Game Deals Hunter** is a tool designed to help gamers save money. It monitors game prices on popular platforms (such as Steam, Epic Games, GOG, etc.) and notifies the user when a desired game reaches a target price or goes on sale.
+**Game Deals Hunter** is a tool designed to help gamers save money. It monitors game prices on popular platforms (such as Steam, Epic Games, GOG, etc.(actualy just steam, maybe more options later)
 
 ### Key Features (Planned/Implemented)
 *   🔍 **Game Search:** Search for specific titles across steam.
@@ -35,7 +35,7 @@ Follow the steps below to run the project on your local machine:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/SHOUTEDI/game_deals_tracker.git
+    git clone https://github.com/SHOUTEDI/Game-Deals-Tracker
     ```
 2.  Enter the project folder:
     ```bash
